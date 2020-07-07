@@ -1,5 +1,6 @@
-# processing-p5
-Repo con p5.js instalado y algun ejemplo funcionando.
+# P5.js - Libreria de javascript basada en Processing.
+Duplica la carpeta example_1 siguiendo el orden para crear ejemplos nuevos o probar cosas. NO BORRES NI EDITES LOS ANTERIORES!!
+
 
 # Welcome to p5.js
 
